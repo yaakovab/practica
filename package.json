@@ -64,6 +64,7 @@
     "@types/jest": "^27.4.1",
     "@types/prettier": "^2.4.4",
     "@types/sinon": "^10.0.11",
+    "detect-secrets": "^1.0.6",
     "execa": "^5.1.1",
     "jest": "^27.5.1",
     "node-notifier": "^10.0.1",
